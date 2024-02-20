@@ -26,7 +26,7 @@ int main() {
                     m++;
                 }
                 if (strlen(b) == m) {
-                    printf("Found at ");
+                    printf("Found ");
                 }
             } else {
                 j = 0;
