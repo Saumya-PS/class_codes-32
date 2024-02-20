@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-
+//piglatin convert
 int main() {
     char a[120], b[20];
     fgets(a, 120, stdin);
