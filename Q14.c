@@ -11,6 +11,7 @@ int main() {
     g(str, 0, n - 1);
     return 0;
 }
+
 void s(char str[], int i, int j) {
     char temp = str[i];
     str[i] = str[j];
